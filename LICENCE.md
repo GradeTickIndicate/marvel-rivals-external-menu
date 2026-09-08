@@ -6,7 +6,7 @@ Marvel Rivals external menu with aim assist, ESP, item unlocker, and more for PC
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular tools like **External Overlays** and **Cheat Engines**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Marvel Rivals.
 4. Run the hack **as Administrator**.
